@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arctic-robot-257817",
+  "private_key_id": "55d57d64032f56f67b8bcbea8bbc6ed929479231",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiRtE93Us/T6pD\n3mX/8XXt3sXuylHDs12GxCpn0QXXTF133+21BpbP2JxUy9hI6icUZaYkDieQpuEv\nfNDsTPntm1OhIz57eyTn7Q7P5zaz6v/YRH6f7ev0kt+41h3xtq5UmfVAeJIl+akZ\n1U9P/RJ3SuUJAK1lVn1X+o4T7bJteWwQJCWBXYKIlLaM2d4/S/xzzquOzl8TyitT\nRtH3Zn3zmb5DzI1CoIHdCyxMJ6giABGy9V7eytumaE3zFn/NkEcSUeurvfEaNfwh\nKsqoeZxSmEgCY5sV4jKj+rhIt1rq0ZO0c7Mar+HNwXdvih2JjQgQ4hb/9rYt0Ki1\nX4WRs5u9AgMBAAECggEAQHY0MUiCVyR8xNgIGasfxv2LD+fTohNSsDGljLbmBJfj\nuzY7VYFIEEmCFFcjVBebrYkRfdoXkmkQI86HqY6Ma3wbtPNsox2QVAcBrsmwm7ja\np9zRlhMre2yKrYB0xatlRdsgptseZzJtH4NyLZqgpr2cDL71oj9ArF2t6bGvArgq\nqsgcswG84c7xIdRF8fq7gfrsp4grU4uBtCE/0kBru8CmtqyKt4sGNgGkGp6zMkBU\nO0TtB4MxJ356ShTkycb74S07tNSWq5zJSi2KXn7Y2nQ+dVEdzEF9vCJ/baMbd3H9\nZlEL8cSPF0oGRchtVNYeAYCzeJ/PYie38bdGSDwFCwKBgQDNiMge/LyZPFs6hRqa\nsM3+HPdbEBiozfz21wJULV3gNHtudzW6mlOdm7vqvp5FtnOVNCIG/tBvTBvI/uX8\nwJM5M9+wZOozVTl5rB5b4BUPYZtRMf66LAVgEGfGmPUPnXQwRprpC+h/D1d12kQY\nuw92ExDxf8mvcBKLTwvWGQfFtwKBgQDKHv+2vOQ2eHFKQ+eGPqwJ9xkYHXfdnoac\n5+U+pfyUhWMcrTaBRlEw90AK5pXwTtRwJgSP0/qsID7h539h9ZoPF3RpKz3FVFbd\nkxs1BABQffH8Y5c608YT6zFmdTXFzCIyf+RNPj67Lse5PXQgebYto7w9oj8C/rYi\nTWbbF7XKKwKBgQCKVS5D1Nzm0b2hBGbkiG0MQ9ijvJCsRH+mbw3NM/+D4C7XKXrL\nDgWLBX8Tvpnt15+xYzYnuSb2UaY9wHlwhPhRvr0mDrWmOQ0G/DYupgHmqU4M9vY3\nvVsczc3a16XQjavethabFX20ztGRq4a7kmMUmD6GG/jVkDua8WfJAG2/vwKBgGIg\nRJMqBz1uocmlR9zDxnAcF4G+pLfiQ4YfiwssOIC+dUyxxxlh0v8LunrQUZDWJIrB\n2ksdZcB08zJnWk9rljynbWu1g4qulHGD/pxxcdmiG34lt4Dm2W5IK7aLRuzdWujb\ncDIT+w6S+oGzFRLDJC/qIvRlNWQ11qS2oS3Sx/37AoGALL4DlPkNv/ipFp4AAwZw\n/cWre09r44e6yTdwnFMWsADH8+OEbtzvJuVnDADr0cX0gJ45fNQijE9kPGbx70b+\nzZBfH9ufBqQqcP8w2T402b5xO1USVEcqvpAM2WiwAAPhfU/e+s56yWpJPjUQcQkm\nqLKf+CYOl+Ckq3gfU5hRVho=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dashboard@arctic-robot-257817.iam.gserviceaccount.com",
+  "client_id": "115810217644855183878",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dashboard%40arctic-robot-257817.iam.gserviceaccount.com"
+}
